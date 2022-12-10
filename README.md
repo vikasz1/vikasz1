@@ -22,6 +22,7 @@
 <!-- * Former Software Engineer intern at [Red Hat](https://www.redhat.com/en) -->
 <!-- * Past Outreachy'20 intern with [OpenRefine](https://openrefine.org/) -->
 <!-- * Co-founder & Instructor at [Code for Cause](https://www.youtube.com/channel/codeforcause) -->
+* Software Developer Intern at [CuriousJr Pvt Ltd.](https://curiousjr.com/)
 * Teacher at [LearnitClub](https://www.learnitclub.in/)
 
 <!-- ## Tools & Technologies :computer:
