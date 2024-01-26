@@ -1,5 +1,5 @@
 ### Hey there, I'm Vikas Maury. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-- 👩‍💼 Computer Science Student @BIET Jhansi, India
+- 👨‍💻 Computer Science Student @BIET Jhansi, India
 - 📖 Pursuing B.Tech in Computer Science from BIET Jhansi.
 <!-- - 💻 Currently working in the Offline Merchants pod at PhonePe. -->
 <!-- - 🔭 At Red Hat, worked on Openshift Cluster Logging. -->
@@ -43,7 +43,7 @@
 
 ![Ekta's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikasz1&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 
-## Top Langauges 👩‍💻
+## Top Langauges 👨‍💻
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasz1&hide=TeX&layout=compact)
  
